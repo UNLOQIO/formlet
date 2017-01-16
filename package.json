@@ -1,7 +1,7 @@
 {
   "name": "formlet",
   "author": "UNLOQ Systems",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "dependencies": {
     "node-fetch-abort": "1.x"
   },
