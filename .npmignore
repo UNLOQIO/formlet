@@ -1,3 +1,9 @@
+Thumbs.db
+*.swp
 .idea
-node_modules
 *.log
+*.pid
+*.gz
+node_modules
+.thorin
+glimpse
